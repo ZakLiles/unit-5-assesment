@@ -1,6 +1,3 @@
-from cmath import log
-
-
 log_file = open("um-server-01.txt") #opens file for reading in text mode
 
 #creates sales_reports() function taking in one file input
